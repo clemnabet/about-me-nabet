@@ -1,0 +1,282 @@
+body{
+	font-family: 'Rubik', sans-serif;
+	background: black;
+	color: white;}
+
+h1{
+	font-family: 'Bitter', serif;
+	font-size: 65px;
+	text-align: center;
+	background: linear-gradient(110.36319579802489deg, rgba(234, 149, 145,1) 5.736111111111111%,rgba(253, 178, 173,1) 96.29166666666666%);
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+
+.bandeau{
+	text-align: center;
+	font-family: 'Bitter', serif;
+	font-size: 20px; }
+
+/*.txt{
+	color: white;
+	background: black;
+	font-size: 65px;
+	font-family: 'Cinzel', serif;
+	text-transform: uppercase;
+	margin-left: 200px;
+	margin-top: 25px;
+}
+
+.txt:before{
+	content: Clémence Nabet;
+	position: absolute;
+	mix-blend-mode: difference;
+	filter: blur(3px);
+}
+
+.neon-wrapper{
+	display: inline-flex;
+	filter: brightness(200%);
+	overflow: hidden;
+	margin-left: 300px;
+	margin-top: 25px;
+}
+
+.gradient{
+	background: linear-gradient(110.36319579802489deg, rgba(255, 148, 196,1) 5.736111111111111%,rgba(235, 81, 112,1) 96.29166666666666%);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	mix-blend-mode: multiply;
+	margin-left: 300px;
+	margin-top: 25px;
+}
+
+.dodge{
+	background: radial-gradient(circle,white, black 35%) center / 25% 25%;
+	position: absolute;
+	top: 25%;
+	left: 0%;
+	right: 0;
+	bottom: 0;
+	mix-blend-mode: color-dodge;
+	animation: dodge-area 3s linear infinite;
+	margin-left: 300px;
+}
+
+@keyframes dodge-area{
+	to{
+		transform: translate(50%,50%);
+	}
+}*/
+
+#icons{
+	letter-spacing: 25px;
+}
+
+#travels{
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	letter-spacing: 30px;
+	font-size: 46px;
+}
+.container{
+	background-color: black;
+}
+
+.travels1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+.travels2{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	margin-top: 30px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.quote{
+	width: 100%;
+	text-align: center;
+	font-size: 36px;
+	color: grey;
+	letter-spacing: 2px;
+}
+
+.contbis{
+	background-color: pink;
+	width: 100%;
+	padding-bottom: 10px;
+}
+.litterature1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	padding-bottom: 70px;
+	text-align: center;
+	color: black;
+}
+
+.litterature2{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	margin-top: 30px;
+	text-align: center;
+	padding-top: 20px;
+	margin-bottom: 200px;
+	color: black;
+}
+
+.books{
+	width: 100%;
+	text-align: center;
+	font-size: 36px;
+	color: grey;
+	padding-top: 140px;
+	letter-spacing: 2px;
+}
+
+#litterature{
+	color: white;
+	text-align: center;
+	margin-top: 250px;
+	margin-bottom: -100px;
+	letter-spacing: 30px;
+	font-size: 46px;
+}
+
+#facts{
+	color: white;
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: -100px;
+	letter-spacing: 30px;
+	font-size: 46px;
+}
+
+#life{
+	width: 100%;
+	text-align: center;
+	font-size: 36px;
+	color: grey;
+	padding-top: 140px;
+	letter-spacing: 2px;
+}
+
+.other1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+.other2{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	margin-top: 30px;
+	text-align: center;
+	padding-top: 20px;
+	margin-bottom: 200px;
+}
+
+
+.container4{
+	background-color: pink;
+	width: 100%;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#like{
+	color: white;
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: -100px;
+	letter-spacing: 30px;
+	font-size: 46px;
+}
+
+#laugh{
+	width: 100%;
+	text-align: center;
+	font-size: 36px;
+	color: grey;
+	padding-top: 140px;
+	letter-spacing: 2px;
+}
+
+.other3 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	padding-bottom: 70px;
+	text-align: center;
+	color: black;
+}
+
+.other4{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	width: 100%;
+	height: 200px;
+	margin-top: 30px;
+	text-align: center;
+	padding-top: 20px;
+	margin-bottom: 200px;
+	color: black;
+}
+
+.quote:hover{
+	color: pink;
+}
+
+#lewis:hover{
+	color: black;
+}
+
+#life:hover{
+	color: pink;
+}
+
+#laugh:hover{
+	color: black;
+}
+
+h1:hover{
+	transform: scale(1.5);
+	transition: ease 5s;
+
+
+
